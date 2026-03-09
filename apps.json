@@ -1,7 +1,7 @@
 {
   "name": "GTD' Source",
   "identifier": "com.gtd.iosapps",
-  "sourceURL": "https://yourdomain.com/apps.json",
+  "sourceURL": "https://grinnul.github.io/apps.json",
   "apps": [
     {
       "name": "GeoKont",
@@ -10,10 +10,22 @@
       "version": "1.1.2",
       "versionDate": "2026-03-09",
       "versionDescription": "Initial release",
-      "downloadURL": "https://yourdomain.com/myapp.ipa",
+      "downloadURL": "https://github.com/Grinnul/grinnul.github.io/releases/download/1.0.0/GeoKont.ipa",
       "localizedDescription": "Ucz się geografii szybciej i lepiej!",
-      "iconURL": "https://yourdomain.com/icon.png",
-      "size": 1234567
+      "iconURL": "https://github.com/Grinnul/grinnul.github.io/releases/download/1.0.0/GeoKont.png",
+      "size": 82546515
+    },
+    {
+      "name": "Space Runner",
+      "bundleIdentifier": "com.gtd.SpaceRunner",
+      "developerName": "Grinnul the Dev",
+      "version": "1.2.0",
+      "versionDate": "2026-03-09",
+      "versionDescription": "Initial release",
+      "downloadURL": "https://github.com/Grinnul/grinnul.github.io/releases/download/1.0.0/SpaceRunner.ipa",
+      "localizedDescription": "Fly in spaceship and avoid aliens!",
+      "iconURL": "https://github.com/Grinnul/grinnul.github.io/releases/download/1.0.0/SpaceRunner.png",
+      "size": 27056394
     }
   ],
   "news": []
