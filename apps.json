@@ -2,6 +2,7 @@
   "name": "GTD' Source",
   "identifier": "com.gtd.iosapps",
   "sourceURL": "https://grinnul.github.io/apps.json",
+  "iconURL": "https://grinnul.github.io/Logo.png",
   "apps": [
     {
       "name": "GeoKont",
