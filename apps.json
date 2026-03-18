@@ -6,7 +6,7 @@
   "apps": [
     {
       "name": "GeoKont",
-      "category": "games";
+      "category": "games",
       "bundleIdentifier": "com.gtd.GeoKont",
       "developerName": "Grinnul the Dev",
       "version": "1.0.0",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Space Runner",
-      "category": "games";
+      "category": "games",
       "bundleIdentifier": "com.gtd.SpaceRunner",
       "developerName": "Grinnul the Dev",
       "version": "1.0.0",
